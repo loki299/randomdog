@@ -1,0 +1,1 @@
+Little project to try out API connections through JavaScript.
